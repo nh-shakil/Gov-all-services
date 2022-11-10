@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_agriculture.xml" value="0.1" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_batagov.xml" value="0.1" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_bdgov.xml" value="0.1" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_birth.xml" value="0.16" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_eadalot.xml" value="0.1" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_epassport.xml" value="0.1" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_fireservice.xml" value="0.1" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_news.xml" value="0.1" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_nid.xml" value="0.22" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_nidfromdw.xml" value="0.1859375" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_nidnewaply.xml" value="0.2" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_nidonliecopy.xml" value="0.1859375" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_nidsmartcrad.xml" value="0.2" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_nidsongsod.xml" value="0.2" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_polic.xml" value="0.1" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_prottoyon.xml" value="0.1" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_railway.xml" value="0.1" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_shurkkha.xml" value="0.1" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_splash.xml" value="0.1641025641025641" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_uthor.xml" value="0.1" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/activity_vumi.xml" value="0.1" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/menu/bottom_nev.xml" value="0.2" />
+        <entry key="..\:/Users/nhshakil/Desktop/BangladeshGov/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.203" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

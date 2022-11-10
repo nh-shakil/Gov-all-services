@@ -1,0 +1,26 @@
+<resources>
+        <string name="app_name">Gov Sheba</string>
+
+        !-- Admob AD ON or OFF -->
+        <string name="show_admob_ad">ON</string>
+
+        <!-- Device ID  setTestDeviceIds (search on logcat for device id) -->
+        <string name="device_id">ABCD</string>
+        <!-- Admob APP ID HERE -->
+        <string name="admob_APP_ID">ca-app-pub-5303899768519829~9956123988</string>
+        <!-- Admob Ad Unit IDS Here -->
+        <string name="admob_INTERSTITIAL_UNIT_ID">"ca-app-pub-5303899768519829/7611702684"</string>
+        <string name="admob_BANNER_UNIT_ID">ca-app-pub-5303899768519829/9697991739</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_nid_info">Nid_infoActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
